@@ -1,0 +1,10 @@
+#ignore virtual enviroment
+venv/
+
+#ignore python cache files
+__pycache__/
+*pyc
+
+#ignore IDE/editor settings
+.vscode/
+*.log
