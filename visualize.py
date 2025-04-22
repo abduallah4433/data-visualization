@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the CSV file
-df = pd.read_csv("tech.csv")
+df = pd.read_csv("sample_data.csv")
 
 # Set style
 sns.set(style="whitegrid")
